@@ -1,6 +1,6 @@
 # Weather Prediction Project
 
-This project fetches weather data from the OpenWeatherMap API and performs time-series prediction using a linear regression model.
+This project fetches weather data from the OpenWeatherMap API and performs time-series prediction using a LSTM model.
 
 ## Setup
 
