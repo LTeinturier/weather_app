@@ -7,7 +7,7 @@ This project fetches weather data from the OpenWeatherMap API and performs time-
 1. Clone the repository:
     ```bash
     git clone https://github.com/LTeinturier/weather_app.git
-    cd weather_prediction
+    cd weather_app
     ```
 
 2. Install the required dependencies:
