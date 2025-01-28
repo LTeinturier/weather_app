@@ -35,7 +35,6 @@ This project fetches weather data from the OpenWeatherMap API and performs time-
 - `config/`: Configuration settings.
 - `static/`: Static files like CSS.
 - `templates/`: HTML templates.
-- `tests/`: Unit tests.
 - `.env`: Environment variables.
 - `requirements.txt`: List of dependencies.
 - `run.py`: Entry point to run the application.
