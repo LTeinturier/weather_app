@@ -34,7 +34,6 @@ This project fetches weather data from the OpenWeatherMap API and performs time-
 - `app/`: Contains the Flask application code.
 - `config/`: Configuration settings.
 - `static/`: Static files like CSS.
-- `templates/`: HTML templates.
 - `.env`: Environment variables.
 - `requirements.txt`: List of dependencies.
 - `run.py`: Entry point to run the application.
