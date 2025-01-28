@@ -1,0 +1,8 @@
+Flask
+requests
+pandas
+scikit-learn
+matplotlib
+python-dotenv
+numpy==1.21.2
+tensorflow==2.7.0
